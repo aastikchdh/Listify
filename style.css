@@ -1,0 +1,36 @@
+.boldonse-regular{
+  font-family: "Boldonse", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+#heading{
+    text-align: center;
+    font-family: Boldonse;
+    color:color-mix(in hsl shorter hue, grey 40%, rgb(255, 255, 255) 40%);
+    font-size: xxx-large;
+    margin: 5px;
+    margin-bottom: 0px;
+}
+#sub{
+    text-align: center;
+    font-family: Boldonse;
+    color:color-mix(in hsl shorter hue, grey 60%, rgb(255, 255, 255) 40%);
+    margin-top: 0px;
+    font-size: larger;
+}
+#headbar{
+    background-color: rgb(31, 31, 31);
+    margin-left: 0px;
+    margin-right: 0px;
+}
+html{
+    background-color: rgb(57, 57, 57);
+}
+#content{
+    text-align: left;
+    font-family: Boldonse;
+    color:color-mix(in hsl shorter hue, grey 60%, rgb(255, 255, 255) 40%);
+    margin-top: 200px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
